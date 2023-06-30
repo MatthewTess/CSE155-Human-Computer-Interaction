@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150baf39d68c1504593881263cb47892, type: 3}
+  m_Name: Blackmail
+  m_EditorClassIdentifier: 
+  location: Boat
+  description: They ask for money to take you home
+  leftChoice: Say you don't have any
+  rightChoice: Tell them youll pay them when you get home
+  leftRoom: {fileID: 11400000, guid: 2a8fc65cd8d8d48469d1f0cf354cc6c9, type: 2}
+  rightRoom: {fileID: 11400000, guid: bdebfdb6db06b4c2e85470247b19b820, type: 2}
